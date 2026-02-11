@@ -1,0 +1,3 @@
+
+This directory is SQL files that will only be run on the dev enviroment.
+This is where you can place temporary data that for development use.
